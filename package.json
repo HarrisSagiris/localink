@@ -1,0 +1,26 @@
+{
+  "name": "localink",
+  "version": "1.1.0",
+  "description": "Share your localhost with QR codes for easy mobile testing",
+  "main": "index.js",
+  "bin": {
+    "localink": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "localhost",
+    "cli",
+    "qrcode",
+    "development",
+    "mobile-testing"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^9.4.0",
+    "qrcode": "^1.5.1"
+  }
+}

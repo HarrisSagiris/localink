@@ -28,9 +28,9 @@ Then open your browser and navigate to `http://127.0.0.1:your-port` or scan the 
 
 ## Features
 
-- Feature 1: [describe feature]
-- Feature 2: [describe feature]
-- Feature 3: [describe feature]
+- Feature 1: Cross-platform testing - Test your apps and websites on multiple platforms seamlessly.
+- Feature 2: Easy setup - Simple installation and configuration process.
+- Feature 3: QR code access - Quickly access your local server from other devices using a QR code.
 
 ## Contributing
 

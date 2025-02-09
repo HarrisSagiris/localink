@@ -15,9 +15,9 @@ Localink is a project designed to help you test your apps and websites that you 
 To install Localink, follow these steps:
 
 1. Clone the repository:
-    ```bash
-    npm install -g localink
-    ```
+ ```bash
+npm install localink
+  ```
 ## Usage
 
 To start using Localink, run the following command:

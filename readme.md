@@ -16,7 +16,7 @@ To install Localink, follow these steps:
 
 1. Clone the repository:
     ```bash
-    npm install -g localink
+    npm install localink
     ```
 ## Usage
 
